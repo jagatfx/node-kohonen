@@ -4,15 +4,13 @@
 ## Installation
 
 ```sh
-$ npm install --save node-kohonen
+$ npm install --save kohonen
 ```
 
 ## Usage
 
 ```js
-var nodeKohonen = require('node-kohonen');
-
-nodeKohonen('Rainbow');
+var kohonen = require('kohonen');
 ```
 ## License
 

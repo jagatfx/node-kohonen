@@ -1,5 +1,5 @@
 {
-  "name": "node-kohonen",
+  "name": "kohonen",
   "version": "0.0.1",
   "description": "A library to assist in performing Kohonen-based clustering to enable the creation of self-organizing maps useful for visualizing low-dimensional views of high-dimensional data.",
   "homepage": "http://www.jmadden.org/",
